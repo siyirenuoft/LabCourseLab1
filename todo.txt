@@ -1,5 +1,5 @@
 Calculate:
-Yonge's modulus, 
-Poisson's ratio, 
-Yield stress (using 0.2% offset strain)
-Ultimate tensile stress
+Yonge's modulus, (Done)
+Poisson's ratio, (Done)
+Yield stress (using 0.2% offset strain) (Done)
+Ultimate tensile stress (Done)
